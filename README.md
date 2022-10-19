@@ -1,2 +1,2 @@
 # Portfolio
-Examples of my work!
+Here are some examples of my work!
